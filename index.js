@@ -12,9 +12,8 @@ writeCards(name)
 
 
 const countDown = () =>{
-  const down = []
-  let count = 10 
-  while (count > 0){
-    down.push(`${count}`)
-  }
+ let countup = 0;
+while (countup < 11) {
+  console.log(countup++);
+}
 }
