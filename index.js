@@ -9,3 +9,12 @@ return thanks
  
 }
 writeCards(name)
+
+
+const countDown = () =>{
+
+  let count = 10 
+  while (count > 0){
+    
+  }
+}
